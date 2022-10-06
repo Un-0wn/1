@@ -2,7 +2,7 @@
  <h1 align="center">~ Mvilaa ~</h1>
   
   <div align="center">
-  <a href="https://laby.net/@Sorakali" >
+  <a>
    <img src="ss/Mv..1.webp" height="150" alt="Mvilaa Logo"/>
   </a> 
   </div>
